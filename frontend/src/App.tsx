@@ -40,3 +40,4 @@ export default App;// Initial setup
 // API integration
 // API integration
 // UI enhancements
+// Charts implementation
