@@ -41,3 +41,4 @@ export default App;// Initial setup
 // API integration
 // UI enhancements
 // Charts implementation
+// Alert system
